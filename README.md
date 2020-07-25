@@ -9,6 +9,6 @@
 [Google Scholar](https://scholar.google.ca/citations?user=D4w2Jbec7IMC&hl=en)
 
 ### Contact:
--Email: [yeonjink@uw.edu](yeonjink@uw.edu),
--Twitter: [YEONJINKIM6](https://twitter.com/YEONJINKIM6),
--Github: [yeonjinkimvision](https://github.com/yeonjinkimvision)
+Email: [yeonjink@uw.edu](yeonjink@uw.edu),
+Twitter: [YEONJINKIM6](https://twitter.com/YEONJINKIM6),
+Github: [yeonjinkimvision](https://github.com/yeonjinkimvision)

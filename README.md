@@ -1,6 +1,18 @@
 ## Welcome to Yeon Jin Kim's Web Pages
 
-You can use the [editor on GitHub](https://github.com/yeonjinkimvision/yeonjinkim.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Current position: Yeon Jin Kim, Ph.D., Acting Instructor
+[Department of Biological Structure](https://depts.washington.edu/biostr/home)
+University of Washington, Seattle
+
+[Google Scholar](https://scholar.google.ca/citations?user=D4w2Jbec7IMC&hl=en)
+
+# Contact
+Email: yeonjink@uw.edu
+Twitter: YEONJINKIM6
+Githug: yeonjinkimvision
+
+
+[editor on GitHub](https://github.com/yeonjinkimvision/yeonjinkim.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

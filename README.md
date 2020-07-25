@@ -10,8 +10,8 @@
 
 #### Contact:
 
-Email: [yeonjink@uw.edu](yeonjink@uw.edu),
+Email: [yeonjink@uw.edu](yeonjink@uw.edu)
 
-Twitter: [YEONJINKIM6](https://twitter.com/YEONJINKIM6),
+Twitter: [YEONJINKIM6](https://twitter.com/YEONJINKIM6)
 
 Github: [yeonjinkimvision](https://github.com/yeonjinkimvision)

@@ -1,4 +1,4 @@
-# Welcome to Yeon Jin Kim's Web Pages
+# Welcome to Yeon Jin Kim's Web
 
 ### Current position: Yeon Jin Kim, Ph.D., Acting Instructor
 [Department of Biological Structure](https://depts.washington.edu/biostr/home),

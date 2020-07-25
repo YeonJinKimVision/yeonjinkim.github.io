@@ -1,6 +1,8 @@
 ## Welcome to Yeon Jin Kim's Web
 
 
+
+
 ### Current position: Acting Instructor
 ![Yeon Jin Kim, Ph.D.](https://github.com/yeonjinkimvision/yeonjinkim.github.io/raw/master/yjk.jpg)
 
@@ -12,7 +14,8 @@
 
 
 
-#### Contact:
+
+### Contact:
 
 Email: [yeonjink@uw.edu](yeonjink@uw.edu)
 

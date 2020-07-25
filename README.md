@@ -6,7 +6,7 @@
 #### Current position: Acting Instructor
 [Department of Biological Structure](https://depts.washington.edu/biostr/home),
 [University of Washington Seattle](https://www.washington.edu/)
-[My google scholar](https://scholar.google.ca/citations?user=D4w2Jbec7IMC&hl=en)
+>[My google scholar](https://scholar.google.ca/citations?user=D4w2Jbec7IMC&hl=en)
 
 
 #### Contact:

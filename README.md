@@ -1,4 +1,4 @@
-# Welcome to Yeon Jin Kim's Web
+## Welcome to Yeon Jin Kim's Web
 
 ## Current position: Acting Instructor
 ![Yeon Jin Kim, Ph.D.](https://github.com/yeonjinkimvision/yeonjinkim.github.io/raw/master/yjk.jpg)
@@ -9,6 +9,6 @@
 [Google Scholar](https://scholar.google.ca/citations?user=D4w2Jbec7IMC&hl=en)
 
 ### Contact
-Email: [yeonjink@uw.edu](yeonjink@uw.edu),
-Twitter: [YEONJINKIM6](https://twitter.com/YEONJINKIM6),
-Github: [yeonjinkimvision](https://github.com/yeonjinkimvision)
+-Email: [yeonjink@uw.edu](yeonjink@uw.edu),
+-Twitter: [YEONJINKIM6](https://twitter.com/YEONJINKIM6),
+-Github: [yeonjinkimvision](https://github.com/yeonjinkimvision)

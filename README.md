@@ -1,6 +1,6 @@
 # Welcome to Yeon Jin Kim's Web
 
-Current position: Acting Instructor
+## Current position: Acting Instructor
 ![Yeon Jin Kim, Ph.D.](https://github.com/yeonjinkimvision/yeonjinkim.github.io/raw/master/yjk.jpg)
 
 [Department of Biological Structure](https://depts.washington.edu/biostr/home),
